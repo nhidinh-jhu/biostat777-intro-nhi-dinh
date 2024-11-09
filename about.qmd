@@ -1,0 +1,125 @@
+---
+title: "About"
+---
+
+Nhi Dinh, MSPH, is a public health professional with training and experience in implementation research, monitor and evaluation of international health programs. She has diverse experiences working for NGOs, multilateral organizations, as well as academic institutes. Ms. Dinh is interested in applied epidemiology and capacity strengthening to drive better use of data for program and policy decisions.
+
+## Education
+
+-   2019 – 2021 MSPH in International Health: Global Disease Epidemiology and Control,
+
+Johns Hopkins University, Bloomberg School of Public Health, Maryland, USA
+
+Certificate: Evaluation: International Health Programs
+
+-   2012 – 2016 BA in Neuroscience \| Minor: Film, Earlham College, Indiana, USA
+
+## Research Experience
+
+#### 2021-2024 FHI 360, *Research Associate*
+
+Quantitative research associate within the Global Health and Population Research Department. Work with headquarters’ scientists, technical advisors, and country teams to implement, manage, and conduct research studies in global health. Project highlights:
+
+·**Microbicide Research and Development to Advance HIV Prevention and Technologies (MATRIX) project** (<https://matrix4prevention.org/>).
+
+o   Manage a multi-national survey (Kenya, South Africa, and Zimbabwe) on women’ values and preferences on new HIV-prevention products. Work with four country teams (KEMRI, Wits RHI, HSRC, and PZAT) to submit protocol to IRBs, develop survey’s standard operating procedures, and implement the survey following proposed timeline.
+
+o   Program the survey in ODK (with randomization and embedded media).
+
+o   Conducted in-person data collection training in Nairobi, Kenya, Johannesburg and Pietermaritzburg, South Africa.
+
+o   Monitor survey data (in R) and provide rapid feedback to country teams.  
+
+o   Develop a statistical analysis plan for a Latent Class Analysis to categorize survey’s participants into distinct end-user segments based on their expressed preferences for HIV prevention products under development with MATRIX. Description of end-user’s segments and their feedback will be shared with product developers.  
+
+· **Viet Nam’s End TB program:** Clean, analyze, and synthesize programmatic data, comparing results from Artificial Intelligence software with radiologists to provide insight on implementation strategies and scale-up. Analytic methods used (in R and Stata): Interrupted time series, receiver operating characteristics.
+
+· **Systematic Reviews:**
+
+o   Conduct various systematic reviews, including a meta-analysis (in R), on different HIV-prevention topics for publication.
+
+o   Conduct rapid systematic reviews to assess how effective GAVI-funded pro-equity interventions are at identifying, reach, monitoring and measuring, or advocating for missed communities and zero-dose children. Evidence map: <https://www.equityevidencemap.org/>
+
+#### 2021 **World Health Organization (WHO),** *Consultant/Scholar for the Program in Applied Vaccine Experiences (PAVE)*
+
+Consultant (June-July) and visiting Scholar (January-April) within the Department of Immunization, Vaccines, and Biologicals.
+
+·        Cleaned, analyzed, and synthesized data (in Stata and Excel) from the WHO’s Missed Opportunities for Vaccination (MOV) assessments from 10 sub-Saharan African countries (22 datasets in total).  The MOV assessments included surveys for health workers and caregivers, conducted at health facilities. Translated data from French and Portuguese when applicable.  
+
+·        Conducted literature review on public-private partnerships for health systems strengthening in developing countries, through searching and screening peer-review articles, reports from WHO, UNICEF, GAVI, World Bank Group, Abt associates, and examining findings from Demographic & Health Surveys and Multiple Indicator Cluster Surveys. 
+
+·        Synthesized findings from literature review and data analysis to provide recommendations on public-private partnerships to strengthen immunization services and primary health care in studied countries.  
+
+#### 2019 - 2020 **Johns Hopkins University / Global mHealth Initiative***,* Data Analyst
+
+·        Extracted, cleaned, complied, analyzed, and visualized routinely collected data from iDeliver (in R) to assess its adoption and utilization in rural Kenya. iDeliver is a digital clinical decision support and data management tool for skilled-birth attendants through the continuum of maternity care. 
+
+·        Provided feedback on data quality and suggested strategies to address challenges to implementation partner, Vecna Cares.  
+
+#### **2020 United Nations Children’s Fund (UNICEF)*, Consultant***
+
+                                             Consultant within the Division of Data, Analytics, Planning, and Monitoring.
+
+·        Analyzed and visualized data from the WHO-UNICEF Joint Reporting Form (JRF) (using R) and conducted literature review on vaccines stock-outs and immunization coverage. 
+
+·        Synthesized findings from literature review and data analysis to write a report on the impact of vaccines stock-outs on immunization programs in the past decade. Provided insight to improve the digitized WHO-UNICEF JRF to better capture data at the subnational level. 
+
+### Leadership Experience
+
+#### 2020 Johns Hopkins Bloomberg School of Public Health (JHSPH) Project Co-Leader, Animation Director, and Video Editor
+
+**COVideo-19.** [COVideo-19](https://www.globalhealthnow.org/covideo-19-bloomberg-school-students-translate-science) is a campaign led by students from JHSPH aimed at sharing multilingual science-based videos about COVID-19.  Scripts were developed in collaboration with the Department of International Health, the Center for Health Security, and the Global Health NOW. Project was featured as one of [JHSPH’s 20 Highlights from 2020](https://www.jhsph.edu/20-highlights-from-2020/?mc_cid=79518d1fc5&mc_eid=68d564951a&fbclid=IwAR0nN8Mhob0c87L9m_5uCglRsW7oOblGpYveBpqQhS7m7vPWrOWtwofBO9M).  
+
+·        Managed 50+ students to collect content on COVID-19 pertinent to different communities around the world, translate the scientific information into layman terms in different languages. 
+
+·        Developed guidelines for students to record high-quality audio/video with smart phones and for post-processing team to edit videos. 
+
+·        Directed, co-wrote, and edited animation videos on COVID-19. The videos were produced in 38 languages. 
+
+#### 2018-2020 Vietnamese American Services, Inc. *Grants Writer/Medical Interpreter*
+
+**Vietnamese American Services, Inc.** is a non-profit organization addresses the needs of the underserved Vietnamese American communities in Maryland. <https://vasusa.org/> 
+
+·        Increased revenue of the organization by 90% within two years through writing grants for state, federal, and private funding. Strengthened relationships with existing funders and established relationship with new providers.
+
+·        Arranged and interpreted during doctor visits for low-income and uninsured Vietnamese immigrants at Mobile Med clinic. Followed-up with patients to ensure adherence to doctor’s instructions.
+
+#### 2016-2018 Georgetown University(Washington, D.C., USA) *Lab Manager*
+
+Managed the Laboratory for Relational Cognition, Psychology Department
+
+·        Developed a neuroimaging data analysis pipeline on high-performance computing cluster and wrote an instruction manual for lab members.  
+
+·        Managed a team of 10 undergraduate and graduate students and five research projects.
+
+·        Managed a budget of over \$1 million and wrote annual reports to the National Science Foundation.
+
+### Publications
+
+Innes AL, Martinez A, Gao X, **Dinh N,** Hoang GL, Nguyen TBP, Vu VH, Luu THT, Le TTT, Lebrun V, et al. Computer-Aided Detection for Chest Radiography to Improve the Quality of Tuberculosis Diagnosis in Vietnam’s District Health Facilities: An Implementation Study. Tropical Medicine and Infectious Disease. 2023; 8(11):488. <https://doi.org/10.3390/tropicalmed8110488>
+
+Innes AL, Nguyen ST, Lebrun V, Nguyen TTH, Huynh TP, Quach VL, Hoang GL, Nguyen TB, Nguyen TBP, Pham HM, Martinez A**, Dinh N,** Dinh VL, Nguyen BH, Truong TTH, Nguyen VC, Nguyen VN, Mai TH. Tuberculin skin testing and QuantiFERON™-TB Gold Plus positivity among household contacts in Vietnam. Public Health Action. 2023 Sep 21;13(3):83-89. doi: 10.5588/pha.23.0020. PMID: 37736581; PMCID: PMC10446657.
+
+Lorenzetti L, **Dinh N,** van der Straten A, Fonner V, Ridgeway K, Rodolph M, Schaefer R, Schmidt HA, Baggaley R. Systematic review of the values and preferences regarding the use of injectable pre-exposure prophylaxis to prevent HIV acquisition. J Int AIDS Soc. 2023 Jul;26 Suppl 2:e26107. doi: 10.1002/jia2.26107. PMID: 37439057.
+
+Fonner VA, Ridgeway K, van der Straten A, Lorenzetti L, **Dinh N,** Rodolph M, Schaefer R, Schmidt HA, Nguyen VTT, Radebe M, Peralta H, Baggaley R. Safety and efficacy of long-acting injectable cabotegravir as preexposure prophylaxis to prevent HIV acquisition. AIDS. 2023 May 1;37(6):957-966. doi: 10.1097/QAD.0000000000003494. Epub 2023 Jan 25. PMID: 36723489; PMCID: PMC10090368.
+
+Lorenzetti L, **Dinh N,** van der Straten A, et al. Systematic review of the values and preferences regarding the use of injectable-pre-exposure prophylaxis, including long-acting injectable cabotegravir, to prevent HIV injection. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention \[Internet\]. Geneva: World Health Organization; 2022. WEB ANNEX C.
+
+Cortes RA, Peterson EG, Kraemer DJM, Kolvoord RA, Uttal DH, **Dinh N,** Weinberger AB, Daker RJ, Lyons IM, Goldman D, Green AE. Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Sci Adv. 2022 Aug 12;8(32):eabo3555. doi: 10.1126/sciadv.abo3555. Epub 2022 Aug 10. PMID: 35947663; PMCID: PMC9365289.
+
+**Dinh N,** Agarwal S, Avery L, Ponnappan P, Chelangat J, Amendola P, Labrique A, Bartlett L. Implementation Outcomes Assessment of a Digital Clinical Support Tool for Intrapartum Care in Rural Kenya: Observational Analysis. JMIR Form Res. 2022 Jun 20;6(6):e34741. doi: 10.2196/34741. PMID: 35723911; PMCID: PMC9253974.
+
+Lorenzetti L, **Dinh N,** Whitcomb C, Martinez A, Chatani M, Lesnar B, Nhamo D,  Slack C, Eley N, MacQueen K. Meta-analysis of Pregnancy Events in Biomedical HIV Prevention Trials in sub-Saharan Africa: Implications for Gender Transformative Trials.
+
+Innes AL, Lebrun V, Martinez A, **Dinh N,** Nguyen HTT, Huynh PT, Quach LV, Hoang LG, Nguyen BT, Trieu CV, Tran BDN, Pham MH, Dinh LV, Nguyen HB, Truong HTT, Nguyen CV, Nguyen NV, Mai HT. Tuberculosis detection using chest radiography and GeneXpert: an implementation study and interrupted time series analysis in Vietnam.
+
+### Skills
+
+**Data Analysis:** R**,** Stata
+
+**Survey Development:** ODK (KoboToolBox), RedCap
+
+**Languages:** Vietnamese (native), English (fluent), French (basic), Portuguese (basic)
+
+**Country experience** in: Brazil, Kenya, Philippines, South Africa, United States, Viet Nam. Experience working with teams from: Dominican Republic, India, Malawi, Mozambique, Rwanda, Switzerland, Timor Leste, Zimbabwe. 

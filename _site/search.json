@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistical Programming: Project 1",
+    "section": "",
+    "text": "Hi!\nMy name is Nhi Dinh and I am a first-year PhD student in Global Disease Epidemiology and Control (International Health Department). I am from Ha Noi, Viet Nam, and I consider the U.S. (especially the DMV area) my second home. I love to travel and I always look for an excuse to plan my next trip! Here is a photo from my most recent trip (pre-PhD retreat) to Iceland.\n\n\n\nHiking in Iceland\n\n\n\nResearch Interest\nInfectious Disease Dynamics & Modeling, Spatial Statistics, Multilevel Modeling, Integrated Health Strategies to Identify and Reach Zero-dose Children."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Nhi Dinh, MSPH, is a public health professional with training and experience in implementation research, monitor and evaluation of international health programs. She has diverse experiences working for NGOs, multilateral organizations, as well as academic institutes. Ms. Dinh is interested in applied epidemiology and capacity strengthening to drive better use of data for program and policy decisions."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n2019 – 2021 MSPH in International Health: Global Disease Epidemiology and Control,\n\nJohns Hopkins University, Bloomberg School of Public Health, Maryland, USA\nCertificate: Evaluation: International Health Programs\n\n2012 – 2016 BA in Neuroscience | Minor: Film, Earlham College, Indiana, USA"
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "About",
+    "section": "Research Experience",
+    "text": "Research Experience\n\n2021-2024 FHI 360, Research Associate\nQuantitative research associate within the Global Health and Population Research Department. Work with headquarters’ scientists, technical advisors, and country teams to implement, manage, and conduct research studies in global health. Project highlights:\n·Microbicide Research and Development to Advance HIV Prevention and Technologies (MATRIX) project (https://matrix4prevention.org/).\no   Manage a multi-national survey (Kenya, South Africa, and Zimbabwe) on women’ values and preferences on new HIV-prevention products. Work with four country teams (KEMRI, Wits RHI, HSRC, and PZAT) to submit protocol to IRBs, develop survey’s standard operating procedures, and implement the survey following proposed timeline.\no   Program the survey in ODK (with randomization and embedded media).\no   Conducted in-person data collection training in Nairobi, Kenya, Johannesburg and Pietermaritzburg, South Africa.\no   Monitor survey data (in R) and provide rapid feedback to country teams.  \no   Develop a statistical analysis plan for a Latent Class Analysis to categorize survey’s participants into distinct end-user segments based on their expressed preferences for HIV prevention products under development with MATRIX. Description of end-user’s segments and their feedback will be shared with product developers.  \n· Viet Nam’s End TB program: Clean, analyze, and synthesize programmatic data, comparing results from Artificial Intelligence software with radiologists to provide insight on implementation strategies and scale-up. Analytic methods used (in R and Stata): Interrupted time series, receiver operating characteristics.\n· Systematic Reviews:\no   Conduct various systematic reviews, including a meta-analysis (in R), on different HIV-prevention topics for publication.\no   Conduct rapid systematic reviews to assess how effective GAVI-funded pro-equity interventions are at identifying, reach, monitoring and measuring, or advocating for missed communities and zero-dose children. Evidence map: https://www.equityevidencemap.org/\n\n\n2021 World Health Organization (WHO), Consultant/Scholar for the Program in Applied Vaccine Experiences (PAVE)\nConsultant (June-July) and visiting Scholar (January-April) within the Department of Immunization, Vaccines, and Biologicals.\n·        Cleaned, analyzed, and synthesized data (in Stata and Excel) from the WHO’s Missed Opportunities for Vaccination (MOV) assessments from 10 sub-Saharan African countries (22 datasets in total).  The MOV assessments included surveys for health workers and caregivers, conducted at health facilities. Translated data from French and Portuguese when applicable.  \n·        Conducted literature review on public-private partnerships for health systems strengthening in developing countries, through searching and screening peer-review articles, reports from WHO, UNICEF, GAVI, World Bank Group, Abt associates, and examining findings from Demographic & Health Surveys and Multiple Indicator Cluster Surveys. \n·        Synthesized findings from literature review and data analysis to provide recommendations on public-private partnerships to strengthen immunization services and primary health care in studied countries.  \n\n\n2019 - 2020 Johns Hopkins University / Global mHealth Initiative, Data Analyst\n·        Extracted, cleaned, complied, analyzed, and visualized routinely collected data from iDeliver (in R) to assess its adoption and utilization in rural Kenya. iDeliver is a digital clinical decision support and data management tool for skilled-birth attendants through the continuum of maternity care. \n·        Provided feedback on data quality and suggested strategies to address challenges to implementation partner, Vecna Cares.  \n\n\n2020 United Nations Children’s Fund (UNICEF), Consultant\n                                             Consultant within the Division of Data, Analytics, Planning, and Monitoring.\n·        Analyzed and visualized data from the WHO-UNICEF Joint Reporting Form (JRF) (using R) and conducted literature review on vaccines stock-outs and immunization coverage. \n·        Synthesized findings from literature review and data analysis to write a report on the impact of vaccines stock-outs on immunization programs in the past decade. Provided insight to improve the digitized WHO-UNICEF JRF to better capture data at the subnational level. \n\n\nLeadership Experience\n\n2020 Johns Hopkins Bloomberg School of Public Health (JHSPH) Project Co-Leader, Animation Director, and Video Editor\nCOVideo-19. COVideo-19 is a campaign led by students from JHSPH aimed at sharing multilingual science-based videos about COVID-19.  Scripts were developed in collaboration with the Department of International Health, the Center for Health Security, and the Global Health NOW. Project was featured as one of JHSPH’s 20 Highlights from 2020.  \n·        Managed 50+ students to collect content on COVID-19 pertinent to different communities around the world, translate the scientific information into layman terms in different languages. \n·        Developed guidelines for students to record high-quality audio/video with smart phones and for post-processing team to edit videos. \n·        Directed, co-wrote, and edited animation videos on COVID-19. The videos were produced in 38 languages. \n\n\n2018-2020 Vietnamese American Services, Inc. Grants Writer/Medical Interpreter\nVietnamese American Services, Inc. is a non-profit organization addresses the needs of the underserved Vietnamese American communities in Maryland. https://vasusa.org/ \n·        Increased revenue of the organization by 90% within two years through writing grants for state, federal, and private funding. Strengthened relationships with existing funders and established relationship with new providers.\n·        Arranged and interpreted during doctor visits for low-income and uninsured Vietnamese immigrants at Mobile Med clinic. Followed-up with patients to ensure adherence to doctor’s instructions.\n\n\n2016-2018 Georgetown University(Washington, D.C., USA) Lab Manager\nManaged the Laboratory for Relational Cognition, Psychology Department\n·        Developed a neuroimaging data analysis pipeline on high-performance computing cluster and wrote an instruction manual for lab members.  \n·        Managed a team of 10 undergraduate and graduate students and five research projects.\n·        Managed a budget of over $1 million and wrote annual reports to the National Science Foundation.\n\n\n\nPublications\nInnes AL, Martinez A, Gao X, Dinh N, Hoang GL, Nguyen TBP, Vu VH, Luu THT, Le TTT, Lebrun V, et al. Computer-Aided Detection for Chest Radiography to Improve the Quality of Tuberculosis Diagnosis in Vietnam’s District Health Facilities: An Implementation Study. Tropical Medicine and Infectious Disease. 2023; 8(11):488. https://doi.org/10.3390/tropicalmed8110488\nInnes AL, Nguyen ST, Lebrun V, Nguyen TTH, Huynh TP, Quach VL, Hoang GL, Nguyen TB, Nguyen TBP, Pham HM, Martinez A, Dinh N, Dinh VL, Nguyen BH, Truong TTH, Nguyen VC, Nguyen VN, Mai TH. Tuberculin skin testing and QuantiFERON™-TB Gold Plus positivity among household contacts in Vietnam. Public Health Action. 2023 Sep 21;13(3):83-89. doi: 10.5588/pha.23.0020. PMID: 37736581; PMCID: PMC10446657.\nLorenzetti L, Dinh N, van der Straten A, Fonner V, Ridgeway K, Rodolph M, Schaefer R, Schmidt HA, Baggaley R. Systematic review of the values and preferences regarding the use of injectable pre-exposure prophylaxis to prevent HIV acquisition. J Int AIDS Soc. 2023 Jul;26 Suppl 2:e26107. doi: 10.1002/jia2.26107. PMID: 37439057.\nFonner VA, Ridgeway K, van der Straten A, Lorenzetti L, Dinh N, Rodolph M, Schaefer R, Schmidt HA, Nguyen VTT, Radebe M, Peralta H, Baggaley R. Safety and efficacy of long-acting injectable cabotegravir as preexposure prophylaxis to prevent HIV acquisition. AIDS. 2023 May 1;37(6):957-966. doi: 10.1097/QAD.0000000000003494. Epub 2023 Jan 25. PMID: 36723489; PMCID: PMC10090368.\nLorenzetti L, Dinh N, van der Straten A, et al. Systematic review of the values and preferences regarding the use of injectable-pre-exposure prophylaxis, including long-acting injectable cabotegravir, to prevent HIV injection. In: Guidelines on Long-Acting Injectable Cabotegravir for HIV Prevention [Internet]. Geneva: World Health Organization; 2022. WEB ANNEX C.\nCortes RA, Peterson EG, Kraemer DJM, Kolvoord RA, Uttal DH, Dinh N, Weinberger AB, Daker RJ, Lyons IM, Goldman D, Green AE. Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Sci Adv. 2022 Aug 12;8(32):eabo3555. doi: 10.1126/sciadv.abo3555. Epub 2022 Aug 10. PMID: 35947663; PMCID: PMC9365289.\nDinh N, Agarwal S, Avery L, Ponnappan P, Chelangat J, Amendola P, Labrique A, Bartlett L. Implementation Outcomes Assessment of a Digital Clinical Support Tool for Intrapartum Care in Rural Kenya: Observational Analysis. JMIR Form Res. 2022 Jun 20;6(6):e34741. doi: 10.2196/34741. PMID: 35723911; PMCID: PMC9253974.\nLorenzetti L, Dinh N, Whitcomb C, Martinez A, Chatani M, Lesnar B, Nhamo D,  Slack C, Eley N, MacQueen K. Meta-analysis of Pregnancy Events in Biomedical HIV Prevention Trials in sub-Saharan Africa: Implications for Gender Transformative Trials.\nInnes AL, Lebrun V, Martinez A, Dinh N, Nguyen HTT, Huynh PT, Quach LV, Hoang LG, Nguyen BT, Trieu CV, Tran BDN, Pham MH, Dinh LV, Nguyen HB, Truong HTT, Nguyen CV, Nguyen NV, Mai HT. Tuberculosis detection using chest radiography and GeneXpert: an implementation study and interrupted time series analysis in Vietnam.\n\n\nSkills\nData Analysis: R, Stata\nSurvey Development: ODK (KoboToolBox), RedCap\nLanguages: Vietnamese (native), English (fluent), French (basic), Portuguese (basic)\nCountry experience in: Brazil, Kenya, Philippines, South Africa, United States, Viet Nam. Experience working with teams from: Dominican Republic, India, Malawi, Mozambique, Rwanda, Switzerland, Timor Leste, Zimbabwe."
+  },
+  {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "Example Analysis",
+    "section": "",
+    "text": "How do the COVID-19 vaccination rates vary among pregnant people aged 18-49 change from Q4 2022 to Q4 2023 and by race/ethnicity?"
+  },
+  {
+    "objectID": "example.html#research-question",
+    "href": "example.html#research-question",
+    "title": "Example Analysis",
+    "section": "",
+    "text": "How do the COVID-19 vaccination rates vary among pregnant people aged 18-49 change from Q4 2022 to Q4 2023 and by race/ethnicity?"
+  },
+  {
+    "objectID": "example.html#intended-audience",
+    "href": "example.html#intended-audience",
+    "title": "Example Analysis",
+    "section": "Intended audience",
+    "text": "Intended audience\nPublic health officials who will make decision on which group to prioritize for COVID-19 vaccination campaign targeting pregnant people."
+  },
+  {
+    "objectID": "example.html#data-sources",
+    "href": "example.html#data-sources",
+    "title": "Example Analysis",
+    "section": "Data sources",
+    "text": "Data sources\nThis dataset comes from the Center for Disease Control and Prevention (CDC) - National Center for Immunization and Respiratory Diseases (NCIRD). It includes estimates on COVID-19 vaccination for pregnant persons, overall and by race and ethnicity based on data from the Vaccine Safety Datalink [1].\n\n\n\n\n\n\nNote\n\n\n\nData can be downloaded from: https://data.cdc.gov/Pregnancy-Vaccination/Data-COVID-19-vaccination-among-pregnant-people-ag/hv7b-3sw8/about_data."
+  },
+  {
+    "objectID": "example.html#data-dictionary",
+    "href": "example.html#data-dictionary",
+    "title": "Example Analysis",
+    "section": "Data dictionary",
+    "text": "Data dictionary\nThis website also contains the data dictionary (under the Columns section): https://data.cdc.gov/Pregnancy-Vaccination/Data-COVID-19-vaccination-among-pregnant-people-ag/hv7b-3sw8/about_data."
+  },
+  {
+    "objectID": "example.html#data-wrangling",
+    "href": "example.html#data-wrangling",
+    "title": "Example Analysis",
+    "section": "Data wrangling",
+    "text": "Data wrangling\n\n# Set-up libraries\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(ggplot2)\n# Import data\nsetwd(\"C:/Users/nhidi/OneDrive - Johns Hopkins/PhD/courses/second-term/Programming/project1\")\ndat &lt;- read.csv(\"covid-19-pregnant.csv\")\n\n# Filter dataset to only contains timeframe with data from all group\ntable(dat$Date.Order, dat$Race.and.Ethnicity)\ndf &lt;- dat %&gt;% \n  dplyr::filter(Date.Order != 90)\n\n# Change date to correct format\ndf$Week_Ending_Date &lt;- as.Date(df$Week_Ending_Date, format =  \"%m/%d/%Y %H:%M:%S\")\nstr(df$Week_Ending_Date)\n\n# Summarized data of average vaccination rate by race/ethnicity group\ndf_sum &lt;- df %&gt;%\n  group_by(Race.and.Ethnicity) %&gt;%\n  summarise(\n    n = n(),\n    average = mean(Percent.Up.to.date, na.rm = TRUE)\n  )\n\ndf_sum &lt;- df_sum %&gt;% arrange (desc(average))\n\n\ndf_sum_minus_all &lt;- df_sum %&gt;% \n  filter(Race.and.Ethnicity!=\"All Races/Ethnicity\")\n\n\ndf_sum &lt;- df_sum %&gt;% arrange (desc(average))\n# Summarized data of average denominator by race/ethnicity group\ndf_denominator &lt;- df %&gt;%\n  group_by(Race.and.Ethnicity) %&gt;%\n  summarise(\n    n = n(),\n    size = mean(Denominator, na.rm = TRUE)\n  ) %&gt;%\n  filter(Race.and.Ethnicity!=\"All Races/Ethnicity\")\n\n\n\nSub data-frame is generated to create visualization"
+  },
+  {
+    "objectID": "example.html#data-visualization",
+    "href": "example.html#data-visualization",
+    "title": "Example Analysis",
+    "section": "Data visualization",
+    "text": "Data visualization\n\n#Chart through time\nplot1 &lt;- ggplot(data = df, aes(x=Week_Ending_Date, y=Percent.Up.to.date, group=Race.and.Ethnicity, color=Race.and.Ethnicity)) +\n    geom_line() +\n    ggtitle(\"COVID-19 vaccination among pregnant people aged 18-49 (2022-2023)\") +\n    xlab(\"Month\") + \n    ylab(\"Average vaccination rate (%)\") +\n    theme_bw() +\n    labs(caption = \"Fig 1. COVID-19 vaccination among pregnant people across all races and ethnicitiy (2022-2023)\")\nplot1\n\n\n\n\n\n\n\nplot2 &lt;- ggplot(df, aes(Week_Ending_Date, Percent.Up.to.date)) + geom_point() + \n    facet_wrap(vars(Race.and.Ethnicity)) +\n    ggtitle(\"COVID-19 vaccination among pregnant people aged 18-49 (2022-2023)\") +\n    xlab(\"Month\") + \n    ylab(\"Average vaccination rate (%)\") +\n    theme_bw() +\n    labs(caption = \"Fig 2. COVID-19 vaccination among pregnant people by races and ethnicitiy (2022-2023)\")\nplot2\n\n\n\n\n\n\n\n#Box plot\nplot3 &lt;- ggplot(df, aes(Race.and.Ethnicity, Percent.Up.to.date)) + geom_boxplot(outlier.colour = \"red\", outlier.shape = 1) +\n  theme_bw()  + \n         ggtitle(\"COVID-19 vaccination among pregnant people aged 18-49\") +\n         xlab(\"Race & Ethnicity\") + \n         ylab(\"Average vaccination rate (%)\") +\n         labs(caption = \"Fig 3. COVID-19 vaccination among pregnant people across all races and ethnicitiy (2022-2023)\")\n\nplot3  \n\n\n\n\n\n\n\n#Bar chart\nplot4 &lt;- ggplot(data = df_sum, aes(x=Race.and.Ethnicity, y=average, fill=Race.and.Ethnicity)) + \n         geom_bar(stat=\"identity\") + \n         theme_bw() + \n         ggtitle(\"COVID-19 vaccination among pregnant people aged 18-49\") +\n         xlab(\"Race & Ethnicity\") + \n         ylab(\"Average vaccination rate (%)\") +\n         theme(legend.position=\"none\") +\n         labs(caption = \"Fig 4. Average COVID-19 vaccination among pregnant people, by races and ethnicitiy (2022-2023)\")\n\nplot4"
+  },
+  {
+    "objectID": "example.html#tableimage",
+    "href": "example.html#tableimage",
+    "title": "Example Analysis",
+    "section": "Table/Image",
+    "text": "Table/Image\n\n\nScreenshot from KFF COVID-19 Vaccine Monitor\n\n\n\n\n\n\n\nImportant\n\n\n\nOur results align with findings from KFF’s poll on which groups to most likely be COVID-19 Vaccine hesitant [2]"
+  },
+  {
+    "objectID": "example.html#results",
+    "href": "example.html#results",
+    "title": "Example Analysis",
+    "section": "Results",
+    "text": "Results\nThe COVID-19 vaccination rates among pregnant people (aged 18-45) across all races and ethnicities increased from 2022 to 2023 (Figures 1), with most groups increased sharply from September 2022 to January 2023, then even out. However, as of summer 2023, the average vaccination rate is still low, only at around 16%. Figure 4 summarizes the average COVID-19 vaccination rates of all races/ethnicitity groups during this time frame. Asian is the race group that has the highest vaccination rate, at around 23 %, higher than the national average at around 12.5%. The vaccination rate is lowest among Black population, only at around 5%. This finding aligns with the results from KFF COVID-19 Vaccine Monitor, which shows that 35% of Black adults expressed hesitancy toward COVID-19 vaccination [2]. History of racial discrimination in healthcare and medical research as well as in the criminal justic system may contribute to COVID-19 vaccine hesitancy among Black adults [3]. Public health officials should listen to concerns about COVID-19 vaccination from this population and address them with cultural appropriate health communication messages."
+  },
+  {
+    "objectID": "example.html#reference",
+    "href": "example.html#reference",
+    "title": "Example Analysis",
+    "section": "Reference",
+    "text": "Reference\n\n\n\n\n\n\nWarning\n\n\n\nNot sure why my References do not show up here…you will still find my .bib file on github. Here is a photo of my cat, Oli, instead. He wants me to do yoga and relax."
+  },
+  {
+    "objectID": "example.html#function-used",
+    "href": "example.html#function-used",
+    "title": "Example Analysis",
+    "section": "Function used",
+    "text": "Function used\ndplyr: filter, group_by, summarise, mean, arrange\nggplot2: ggplot, geom_bar, geom_line, geom_boxplot, facet_wrap"
+  }
+]

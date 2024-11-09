@@ -1,0 +1,13 @@
+---
+title: "Statistical Programming: Project 1"
+---
+
+Hi!
+
+My name is Nhi Dinh and I am a first-year PhD student in Global Disease Epidemiology and Control (International Health Department). I am from Ha Noi, Viet Nam, and I consider the U.S. (especially the DMV area) my second home. I love to travel and I always look for an excuse to plan my next trip! Here is a photo from my most recent trip (pre-PhD retreat) to Iceland.
+
+![Hiking in Iceland](iceland.jpg){width="648"}
+
+# Research Interest
+
+Infectious Disease Dynamics & Modeling, Spatial Statistics, Multilevel Modeling, Integrated Health Strategies to Identify and Reach Zero-dose Children.
